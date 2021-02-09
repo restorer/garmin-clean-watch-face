@@ -1,0 +1,31 @@
+<resources>
+    <string id="AppName">Clean Watch Face</string>
+
+    <string id="SettTitle">Clean Watch Face</string>
+    <string id="SettVersion">v1.0.0</string>
+    <string id="SettLicense">Icons by Icons8</string>
+
+    <string id="PropTheme">Theme</string>
+    <string id="PropBackgroundColor">Background Color (only for "custom" theme)</string>
+    <string id="PropForegroundColor">Foreground Color (only for "custom" theme)</string>
+
+    <string id="PropThemeAuto">Auto</string>
+    <string id="PropThemeBlackOnWhite">Black on White</string>
+    <string id="PropThemeWhiteOnBlack">White on Black</string>
+    <string id="PropThemeCustom">Custom</string>
+
+    <string id="PropColorWhite">White</string>
+    <string id="PropColorLtGray">Light Gray</string>
+    <string id="PropColorDkGray">Dark Gray</string>
+    <string id="PropColorBlack">Black</string>
+    <string id="PropColorRed">Red</string>
+    <string id="PropColorDkRed">Dark Red</string>
+    <string id="PropColorOrange">Orange</string>
+    <string id="PropColorYellow">Yellow</string>
+    <string id="PropColorGreen">Green</string>
+    <string id="PropColorDkGreen">Dark Green</string>
+    <string id="PropColorBlue">Blue</string>
+    <string id="PropColorDkBlue">Dark Blue</string>
+    <string id="PropColorPurple">Purple</string>
+    <string id="PropColorPink">Pink</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <font id="RobotoLight" filename="roboto_light_80.fnt" filter="0123456789" antialias="true" />
+    <font id="Icons" filename="icons_16.fnt" filter="0123456789" antialias="true" />
+</resources>

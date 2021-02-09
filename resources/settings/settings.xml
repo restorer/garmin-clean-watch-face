@@ -1,0 +1,48 @@
+<resources>
+    <setting propertyKey="@Properties.Theme" title="@Strings.PropTheme">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.PropThemeAuto</listEntry>
+            <listEntry value="1">@Strings.PropThemeBlackOnWhite</listEntry>
+            <listEntry value="2">@Strings.PropThemeWhiteOnBlack</listEntry>
+            <listEntry value="-1">@Strings.PropThemeCustom</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.BackgroundColor" title="@Strings.PropBackgroundColor">
+        <settingConfig type="list">
+            <listEntry value="0xFFFFFF">@Strings.PropColorWhite</listEntry>
+            <listEntry value="0xAAAAAA">@Strings.PropColorLtGray</listEntry>
+            <listEntry value="0x555555">@Strings.PropColorDkGray</listEntry>
+            <listEntry value="0x000000">@Strings.PropColorBlack</listEntry>
+            <listEntry value="0xFF0000">@Strings.PropColorRed</listEntry>
+            <listEntry value="0xAA0000">@Strings.PropColorDkRed</listEntry>
+            <listEntry value="0xFF5500">@Strings.PropColorOrange</listEntry>
+            <listEntry value="0xFFAA00">@Strings.PropColorYellow</listEntry>
+            <listEntry value="0x00FF00">@Strings.PropColorGreen</listEntry>
+            <listEntry value="0x00AA00">@Strings.PropColorDkGreen</listEntry>
+            <listEntry value="0x00AAFF">@Strings.PropColorBlue</listEntry>
+            <listEntry value="0x0000FF">@Strings.PropColorDkBlue</listEntry>
+            <listEntry value="0x5500AA">@Strings.PropColorPurple</listEntry>
+            <listEntry value="0xFF00FF">@Strings.PropColorPink</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.ForegroundColor" title="@Strings.PropForegroundColor">
+        <settingConfig type="list">
+            <listEntry value="0xFFFFFF">@Strings.PropColorWhite</listEntry>
+            <listEntry value="0xAAAAAA">@Strings.PropColorLtGray</listEntry>
+            <listEntry value="0x555555">@Strings.PropColorDkGray</listEntry>
+            <listEntry value="0x000000">@Strings.PropColorBlack</listEntry>
+            <listEntry value="0xFF0000">@Strings.PropColorRed</listEntry>
+            <listEntry value="0xAA0000">@Strings.PropColorDkRed</listEntry>
+            <listEntry value="0xFF5500">@Strings.PropColorOrange</listEntry>
+            <listEntry value="0xFFAA00">@Strings.PropColorYellow</listEntry>
+            <listEntry value="0x00FF00">@Strings.PropColorGreen</listEntry>
+            <listEntry value="0x00AA00">@Strings.PropColorDkGreen</listEntry>
+            <listEntry value="0x00AAFF">@Strings.PropColorBlue</listEntry>
+            <listEntry value="0x0000FF">@Strings.PropColorDkBlue</listEntry>
+            <listEntry value="0x5500AA">@Strings.PropColorPurple</listEntry>
+            <listEntry value="0xFF00FF">@Strings.PropColorPink</listEntry>
+        </settingConfig>
+    </setting>
+</resources>

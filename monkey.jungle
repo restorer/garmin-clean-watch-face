@@ -1,0 +1,37 @@
+project.manifest = manifest.xml
+
+# base - screen_260x260, launcher_40x40_64
+
+round-208x208.resourcePath = $(base.resourcePath);resources-screen_208x208;resources-launcher_65x65_8
+round-218x218.resourcePath = $(base.resourcePath);resources-screen_218x218
+round-240x240.resourcePath = $(base.resourcePath);resources-screen_240x240
+rectangle-240x240.resourcePath = $(base.resourcePath);resources-screen_240x240
+round-280x280.resourcePath = $(base.resourcePath);resources-screen_280x280
+round-390x390.resourcePath = $(base.resourcePath);resources-screen_390x390;resources-launcher_60x60_64
+
+fenix3_hr.resourcePath = $(round-218x218.resourcePath);resources-launcher_40x40_14
+d2bravo.resourcePath = $(round-218x218.resourcePath);resources-launcher_40x40_14
+d2bravo_titanium.resourcePath = $(round-218x218.resourcePath);resources-launcher_40x40_14
+fenix3.resourcePath = $(round-218x218.resourcePath);resources-launcher_40x40_14
+
+legacysagarey.resourcePath = $(round-218x218.resourcePath);resources-launcher_30x30_64
+legacyherocaptainmarvel.resourcePath = $(round-218x218.resourcePath);resources-launcher_30x30_64
+vivoactive4s.resourcePath = $(round-218x218.resourcePath);resources-launcher_30x30_64
+
+fenix5s.resourcePath = $(round-218x218.resourcePath);resources-launcher_36x36_64
+fenixchronos.resourcePath = $(round-218x218.resourcePath);resources-launcher_36x36_64
+
+venusqm.resourcePath = $(rectangle-240x240.resourcePath);resources-launcher_36x36_64
+venusq.resourcePath = $(rectangle-240x240.resourcePath);resources-launcher_36x36_64
+
+vivoactive3d.resourcePath = $(round-240x240.resourcePath);resources-launcher_40x33_64
+vivoactive3.resourcePath = $(round-240x240.resourcePath);resources-launcher_40x33_64
+approachs60.resourcePath = $(round-240x240.resourcePath);resources-launcher_40x33_64
+vivoactive3m.resourcePath = $(round-240x240.resourcePath);resources-launcher_40x33_64
+vivolife.resourcePath = $(round-240x240.resourcePath);resources-launcher_40x33_64
+vivoactive3mlte.resourcePath = $(round-240x240.resourcePath);resources-launcher_40x33_64
+
+legacysagadarthvader.resourcePath = $(round-260x260.resourcePath);resources-launcher_35x35_64
+approachs62.resourcePath = $(round-260x260.resourcePath);resources-launcher_35x35_64
+legacyherofirstavenger.resourcePath = $(round-260x260.resourcePath);resources-launcher_35x35_64
+vivoactive4.resourcePath = $(round-260x260.resourcePath);resources-launcher_35x35_64

@@ -1,0 +1,53 @@
+round-208x208 - Forerunner 45
+round-218x218 - Captain Marvel, Vivoactive 4S
+round-240x240 - Approach S60
+round-260x260 - Approach S62, Vivoactive 4
+round-280x280 - Descent MK 2
+round-390x390 - D2 Air, Venu
+
+semiround-215x180 - Forerunner 230
+rectangle-148x205 - vivoactive HR
+rectangle-205x148 - epix
+
+rectangle-240x240 - Venu Sq
+
+---
+
+fr45, garminswim2 - 8 цветов
+fenix3_hr, d2bravo, d2bravo_titanium, fenix3 - 14 цветов
+
+---
+
+208x208 -> 65x65, 8 цветов
+218x218 -> 40x40, >= 64 цвета
+240x240 -> 40x40, >= 64 цвета
+260x260 -> 40x40, >= 64 цвета
+280x280 -> 40x40, >= 64 цвета
+390x390 -> 60x60, >= 64 цвета
+
+218x218 fenix3_hr -> 40x40, 14 цветов
+218x218 d2bravo -> 40x40, 14 цветов
+218x218 d2bravo_titanium -> 40x40, 14 цветов
+218x218 fenix3 -> 40x40, 14 цветов
+
+218x218 legacysagarey -> 30x30, >= 64 цвета
+218x218 legacyherocaptainmarvel -> 30x30, >= 64 цвета
+218x218 vivoactive4s -> 30x30, >= 64 цвета
+
+218x218 fenix5s -> 36x36, >= 64 цвета
+218x218 fenixchronos -> 36x36, >= 64 цвета
+
+240x240 venusqm -> 36x36, >= 64 цвета
+240x240 venusq -> 36x36, >= 64 цвета
+
+240x240 vivoactive3d -> 40x33, >= 64 цвета
+240x240 vivoactive3 -> 40x33, >= 64 цвета
+240x240 approachs60 -> 40x33, >= 64 цвета
+240x240 vivoactive3m -> 40x33, >= 64 цвета
+240x240 vivolife -> 40x33, >= 64 цвета
+240x240 vivoactive3mlte -> 40x33, >= 64 цвета
+
+260x260 legacysagadarthvader -> 35x35, >= 64 цвета
+260x260 approachs62 -> 35x35, >= 64 цвета
+260x260 legacyherofirstavenger -> 35x35, >= 64 цвета
+260x260 vivoactive4 -> 35x35, >= 64 цвета
